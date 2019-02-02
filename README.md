@@ -1,2 +1,2 @@
 # Webscraping-Project---Dark-Souls-Enemies
-In this project we are going to retrieve data from Dark Souls Remastered Wiki Page, particularly from the Enemies' Section. We are going to be taking each enemy's name, stats (HP, Physical Defense, Slash Defense, Poison Resistance, Bleed Resistance, etc..), as well as the multiple variations of each one in order to create a DataFrame containing all this info.! 
+In this project we are going to retrieve data from Dark Souls Remastered Wiki Page, particularly from the Enemies' Section. We are going to be taking each enemy's name, stats (HP, Physical Defense, Slash Defense, Poison Resistance, Bleed Resistance, etc..), as well as the multiple variations of each one in order to create a DataFrame containing all info.! 

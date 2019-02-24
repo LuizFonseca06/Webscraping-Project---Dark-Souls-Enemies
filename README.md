@@ -1,6 +1,6 @@
 # &#9678; WebScraping Project - Dark Souls Enemies
 
-**In this project we are going to retrieve data from [Dark Souls Remastered Wiki Page](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki), particularly from the [Enemies' Section](https://darksouls.wiki.fextralife.com/Enemies). We are going to be taking each enemie's name, stats (HP, Physical Defense, Slash Defense, Poison Resistance, Bleed Resistance, etc..), as well as the multiple variations of each one in order to create a DataFrame containing all this info.! **
+**In this project we are going to retrieve data from [Dark Souls Remastered Wiki Page](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki), particularly from the [Enemies' Section](https://darksouls.wiki.fextralife.com/Enemies). We are going to be taking each enemie's name, stats (HP, Physical Defense, Slash Defense, Poison Resistance, Bleed Resistance, etc..), as well as the multiple variations of each one in order to create a DataFrame containing all this info.!**
 
 **Let's begin by taking an example of a single enemy**
 
@@ -8,7 +8,7 @@ url = 'https://darksouls.wiki.fextralife.com/Torch+Hollows'
 
 html = requests.get(url)
 
-**Creating our BeautifulSoup object: **
+**Creating our BeautifulSoup object:**
 
 bs_obj = BeautifulSoup(html.text, "lxml")
 
@@ -25,3 +25,5 @@ bs_obj = BeautifulSoup(html.text, "lxml")
  # Let's get to it!
  
  **"Chosen Undead. Your fate is… to succeed the Great Lord Gwyn. So that you may link the Fire, cast away the Dark, and undo the curse of the Undead."**
+ _______
+ ## Jump to the Jupyter Notebook (.ipnb file) to get started!

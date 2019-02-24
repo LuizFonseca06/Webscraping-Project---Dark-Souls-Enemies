@@ -26,4 +26,4 @@ bs_obj = BeautifulSoup(html.text, "lxml")
  
  **"Chosen Undead. Your fate is… to succeed the Great Lord Gwyn. So that you may link the Fire, cast away the Dark, and undo the curse of the Undead."**
  _______
- ## Jump to the Jupyter Notebook (.ipnb file) to get started!
+ ## Jump to the Jupyter Notebook (.ipynb file) to get started!
